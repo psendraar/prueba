@@ -1,2 +1,2 @@
 # prueba
-Repo de prueba
+Repo de prueba. Esto es una prueba en realidad.
